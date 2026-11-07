@@ -1,6 +1,6 @@
-streamlit>=1.30.0        # 互動式 Web 介面框架
-opencv-python-headless  # 影像處理與空間濾波（無介面版本適合雲端部署）
-numpy>=1.24.0            # 高效能矩陣計算與卷積處理
-pillow>=10.0.0           # 點陣圖讀取與轉換
-mediapipe>=0.10.21       # 輕量級深層學習人臉檢測器
-plotly>=5.18.0           # 動態互動直方圖繪製
+streamlit>=1.30.0
+opencv-python-headless
+numpy>=1.24.0
+pillow>=10.0.0
+mediapipe>=0.10.21
+plotly>=5.18.0
