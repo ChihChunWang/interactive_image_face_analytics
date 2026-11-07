@@ -88,7 +88,9 @@ $$
 
 ### 克隆專案 (Clone Repository)
 ```text
-git clone [https://github.com/ChihChunWang/interactive_image_face_analytics.git](https://github.com/ChihChunWang/interactive_image_face_analytics.git)
+git clone [https://github.com/ChihChunWang/interactive_image_face_analytics.git]
+(https://github.com/ChihChunWang/interactive_image_face_analytics.git)
+
 cd interactive_image_face_analytics
 ```
 
