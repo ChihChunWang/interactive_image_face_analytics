@@ -1,0 +1,24 @@
+[project]
+name = "interactive-image-face-analytics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "7Chun", email = "zxc605773@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mediapipe>=0.10.0",
+    "numpy>=1.24.0",
+    "opencv-python-headless>=5.0.0.93",
+    "pillow>=10.0.0",
+    "plotly>=5.18.0",
+    "streamlit>=1.30.0",
+]
+
+[project.scripts]
+interactive-image-face-analytics = "interactive_image_face_analytics:main"
+
+[build-system]
+requires = ["uv_build>=0.13.4,<0.14.0"]
+build-backend = "uv_build"
