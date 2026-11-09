@@ -2,6 +2,9 @@
 
 本專案為一套基於 Python 打造的互動式Web影像分析與處理工具。結合 Streamlit、OpenCV、Plotly與 MediaPipe Tasks API，提供點陣圖解析、多色彩空間與動態直方圖分析、自訂卷積核濾波與 PSNR 量化評估，以及 AI 人臉偵測標註功能。
 
+Streamlit Cloud 線上即時展示連結：
+https://interactiveimagefaceanalytics-bgo3zzuj76md5szuam2mrh.streamlit.app/
+
 ---
 
 ## 核心功能亮點
